@@ -1,6 +1,7 @@
 TL:DR - If you don't want to read all the instructions or if you just like figuring things out.
-- get the sdnver1 script into your home folder however you see fit to do so (legally).
-- run ./sdver1 in Terminal
+- Get the sdnver1 script into your home folder however you see fit to do so (legally).
+- Run ./sdver1 in Terminal
+- The master branch is up-to-date.  Other branches are experimental.
 
 Enjoy my first official contribution to open source, 
 ~ b4t54ndw1ch
