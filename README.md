@@ -1,4 +1,4 @@
-Shutdown Now! is a simple bash script that shuts down your Linux or Mac as quickly as possible.
+Shutdown Now! 2 is a simple bash script that shuts down your Linux or Mac as quickly as possible.
 
 (Note: This is a statement of intention, not a legal claim.)
 
@@ -13,7 +13,7 @@ Enjoy my first official contribution to open source,
 
 Now, for more words, what it is, how it works, why the hell, etc...
 
-I. Shutdown Now! 
+I. Shutdown Now! 2  
 * Current release: ShutdownNow2
 
 II. How to use this script:
