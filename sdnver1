@@ -5,8 +5,8 @@
 # authored on Dec-30-2022
 # by b4t54ndw1ch
 
+echo 'Shutting down now.  Goodbye!'
+
 shutdown now
 
-
-# Todo: add Goodbye message
 # Todo: add date and time display
