@@ -1,7 +1,11 @@
+Shutdown Now! is a simple bash script that shuts down your Linux or Mac as quickly as possible.
+
+(Note: This is a statement of intention, not a legal claim.)
+
 TL:DR - If you don't want to read all the instructions or if you just like figuring things out.
 - Get the sdnver1 script into your home folder however you see fit to do so (legally).
-- Run ./sdver1 in Terminal
-- The master branch is up-to-date.  Other branches are experimental.
+- Run ./sdver1 in Terminal/CLI
+- The master branch is up-to-date.  Any other branches are experimental.
 
 Enjoy my first official contribution to open source, 
 ~ b4t54ndw1ch
@@ -9,17 +13,14 @@ Enjoy my first official contribution to open source,
 Now, for more words, what it is, how it works, why the hell, etc...
 
 I. Shutdown Now! 
-
-Shutdown Now! is a simple bash script that shuts down your Linux or Mac as quickly as possible.
-
-SDNver1
+* Current release: sdnver1
 
 II. How to use this script:
 * Copy this repo to your HDD.
-* move the sdnv1 script into your home folder
+* move the sdnv1 script into your home folder (you can ditch the folder and readme after you get the sdnver1 script)
 
 To run the script for the first time:
-* Open terminal (Pop!OS allows the Super+T key combination, but there may be others.  I don't remember the Mac command). 
+* Open Terminal/CLI (Pop!OS allows the Super+T key combination, but there may be others.  I don't remember the Mac command). 
 * Run the script by entering:
 ./sdnver1
 
