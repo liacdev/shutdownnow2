@@ -50,6 +50,9 @@ reverse searching my 'shutdown now' command by using CTRL+R.  This isn't so bad,
 
 ...can I do something that is just a little faster and more predictable?
 
-V. Upcoming changes:
-* Display 'goodbye' message
+V. Latest changes
+* Display 'goodbye' message added to script
+* Renamed folder from 'sdn' to 'ShutdownNow' for clarity purposes
+
+VI. Upcoming changes:
 * Display date and time
