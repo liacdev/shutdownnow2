@@ -1,3 +1,12 @@
+TL:DR - If you don't want to read all the instructions or if you just like figuring things out.
+- get the sdnver1 script into your home folder howe3ver you see fit to do so (legally).
+- run ./sdver1 in Terminal
+
+Enjoy my first official contribution to open source, 
+~ b4t54ndw1ch
+
+Now, for more words, what it is, how it works, why the hell, etc...
+
 I. Shutdown Now! 
 
 Shutdown Now! is a simple bash script that shuts down your Linux or Mac as quickly as possible.
@@ -39,6 +48,6 @@ reverse searching my 'shutdown now' command by using CTRL+R.  This isn't so bad,
 
 ...can I do something that is just a little faster and more predictable?
 
-Upcoming changes:
+V. Upcoming changes:
 * Display 'goodbye' message
 * Display date and time
