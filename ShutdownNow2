@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Second script
+# The infamous 'shutdown script' 
+# authored on Dec-30-2022
+# by b4t54ndw1ch
+
+# Version 2
+# Notes: sdnver2 is designed to be a single file that 
+# resides on the desktop.  It is designed to look like a button
+# and shut the computer down with one click, thereby achieving
+# the fastest possible safe system shutdown. 
+
+# (*This is a statement of intention, not a legal claim)
+
+echo 'Shutting down now.  Goodbye!'
+
+# shutdown now
+
+# Todo: add date and time display to output message
+# Todo: change icon to look like a button
