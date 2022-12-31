@@ -1,5 +1,5 @@
 TL:DR - If you don't want to read all the instructions or if you just like figuring things out.
-- get the sdnver1 script into your home folder howe3ver you see fit to do so (legally).
+- get the sdnver1 script into your home folder however you see fit to do so (legally).
 - run ./sdver1 in Terminal
 
 Enjoy my first official contribution to open source, 
